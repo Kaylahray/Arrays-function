@@ -37,7 +37,7 @@ console.log(programmingLanguages);
 programmingLanguages.unshift("Scala", "Swift");
 console.log(programmingLanguages);
 
-// Replace PHP with "Go" and "Rust".
+// Replace "PHP" with "Go" and "Rust".
 programmingLanguages.splice(5, 1, "Go", "Rust");
 console.log(programmingLanguages);
 
