@@ -1,3 +1,23 @@
+// QUESTION ONE:
+/** 
+ * Mutating array methods change or mutate the array that the method was called on.
+ * Examples are:
+ * (1). pop();
+ * (2). push();
+ * (3). shift();
+ * (4). sort();
+ * (5). unshift();
+ * 
+ * The Non Mutating array methods do not mutate the existing array that the method was called on but instead return a new array.
+ * Examples are:
+ * (1). concat();
+ * (2). filter();
+ * (3). map();
+ * (4). flat();
+ * (5). slice();
+
+**/
+
 // QUESTION TWO
 let programmingLanguages = ["C#", "JavaScript", "Ruby", "PHp", "Python"];
 console.log(programmingLanguages);
